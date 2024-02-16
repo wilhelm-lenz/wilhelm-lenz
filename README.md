@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 ### I'm currently working on
-"I am currently intensively working on my Fullstack Developer Bootcamp, where I am deepening my skills in HTML, CSS, SCSS, JavaScript, React, NodeJS, ExpressJS, Unit Testing, and Docker. At the same time, I am working on a personal portfolio website where I present my newly acquired skills in the form of my own projects."<br><br>
+"I am currently intensively working on my Fullstack Developer Bootcamp, where I am deepening my skills in HTML, CSS, SCSS, JavaScript, React, NodeJS, ExpressJS, MongoDB, Unit Testing, and Docker. At the same time, I am working on a personal portfolio website where I present my newly acquired skills in the form of my own projects."<br><br>
 ### I'm looking to collaborate on
 "I am looking for exciting collaboration opportunities, preferably in projects focusing on modern web technologies. I am particularly interested in open-source projects that push the boundaries in both frontend and backend development spaces."<br><br>
 ### I'm looking for help with
